@@ -1,5 +1,8 @@
 package someExamples;
 
+import someExamples.MyMath;
+import someExamples.Reverse;
+
 public class Lambda {
 	static MyValue v1 = () -> 1234;
 
